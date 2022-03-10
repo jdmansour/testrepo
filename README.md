@@ -2,3 +2,5 @@
 This is a test repository for nbgitpuller.
 
 Added this line.
+
+Added a second line.
